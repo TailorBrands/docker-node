@@ -4,8 +4,7 @@ Node base image for tailor's node based project.
 
 ## Supported tags
 
-- [`10.12`](https://github.com/TailorBrands/docker-node/10/jessie/Dockerfile)
-- [`10.12-alpine`](https://github.com/TailorBrands/docker-node/10/alpine/Dockerfile)
+- [`10.12-slim`](https://github.com/TailorBrands/docker-node/10/jessie-slim/Dockerfile)
 
 ## How to use
 
