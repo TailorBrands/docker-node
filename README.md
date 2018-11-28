@@ -16,4 +16,4 @@ $ docker pull tailor/docker-node
 
 ## License
 
-Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
+Licensed under [MIT](http://opensource.org/licenses/mit-license.html) 
